@@ -1,5 +1,5 @@
 # auto-test-corse
-#бшонкмемхе днлюьмху гюдюмхи
+Pull requests
 
 https://github.com/Nastia-Marteniuk/Stepik.-Auto-tests-course.git
 
